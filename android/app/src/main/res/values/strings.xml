@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">flznqn37hPBb9zj9wm_ZMZT-8B0ndd19ea33-1f47-4f37-b8b0-7fb77cfdedaa</string>
+    <string name="app_name">TaxiApp</string>
+</resources>
